@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CroudFundingWorkshop/static/css/main.2e64a288.css",
+    "main.js": "/CroudFundingWorkshop/static/js/main.9827c9bb.js",
+    "static/media/avatar.png": "/CroudFundingWorkshop/static/media/avatar.09990d50f5186e82d1d0.png",
+    "static/media/punk.webp": "/CroudFundingWorkshop/static/media/punk.9965ae52add15a6a98d0.webp",
+    "static/media/loader.svg": "/CroudFundingWorkshop/static/media/loader.70d4239d9afc7078e237075894c64a9c.svg",
+    "static/media/create-campaign.svg": "/CroudFundingWorkshop/static/media/create-campaign.5351be316fbfd0bcf893f4486fb661c4.svg",
+    "static/media/sun.svg": "/CroudFundingWorkshop/static/media/sun.e4fa1acdd01383f5c5680b02dd0b4528.svg",
+    "static/media/money.svg": "/CroudFundingWorkshop/static/media/money.c2e3bcfc074483632db4d4bab31de37a.svg",
+    "static/media/withdraw.svg": "/CroudFundingWorkshop/static/media/withdraw.8847e31eef7034ff5b76185ed13beb4d.svg",
+    "static/media/payment.svg": "/CroudFundingWorkshop/static/media/payment.c53580a3624306b970f1174f74255813.svg",
+    "static/media/dashboard.svg": "/CroudFundingWorkshop/static/media/dashboard.9d72420001b762e8329ec2edffb5fe79.svg",
+    "static/media/logo.svg": "/CroudFundingWorkshop/static/media/logo.b729e606a023ad3826237f67fa781d1e.svg",
+    "static/media/search.svg": "/CroudFundingWorkshop/static/media/search.e07ab529ef2011b19506017bd11b38a9.svg",
+    "static/media/logout.svg": "/CroudFundingWorkshop/static/media/logout.507210e19b5541ab8dd821a60c77d566.svg",
+    "index.html": "/CroudFundingWorkshop/index.html",
+    "static/media/profile.svg": "/CroudFundingWorkshop/static/media/profile.d50d6f8b23b6f3bd9fea063617265d5c.svg",
+    "static/media/type.svg": "/CroudFundingWorkshop/static/media/type.52d9183429a12483198d1632def2197d.svg",
+    "static/media/menu.svg": "/CroudFundingWorkshop/static/media/menu.c57688186ae3402c65ae1ff1fd4768c7.svg",
+    "main.2e64a288.css.map": "/CroudFundingWorkshop/static/css/main.2e64a288.css.map",
+    "main.9827c9bb.js.map": "/CroudFundingWorkshop/static/js/main.9827c9bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e64a288.css",
+    "static/js/main.9827c9bb.js"
+  ]
+}
